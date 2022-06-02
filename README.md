@@ -26,6 +26,6 @@ _Epicodus week 2, jQuery Forms lesson_
 ## License
 * MIT
 
-_[enter link description here](ftREADME)If you run into any issues or have any concerns, feel free to [Contact me: filmer.tolentino@gmail.com](mailto:filmer.tolentino@gmail.com), or request to make any contributions to my code._ 
+_If you run into any issues or have any concerns, feel free to [Contact me: filmer.tolentino@gmail.com](mailto:filmer.tolentino@gmail.com), or request to make any contributions to my code._ 
 
 Copyright (c) _5/27/2022_ _Filmer Tolentino
